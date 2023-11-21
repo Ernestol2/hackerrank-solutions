@@ -1,1 +1,1 @@
-let url = 'https://jsonmock.hackerrank.com/api/food_outlets?city=Seattle&estimated_cost=110';
+
